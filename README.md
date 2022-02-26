@@ -2,6 +2,6 @@
 
 ## Canais no Youtube
 
-### [Machine Learning Sklearn] (https://www.youtube.com/watch?v=fbxVrARF0a8)
+### [Machine Learning Sklearn](https://www.youtube.com/watch?v=fbxVrARF0a8)
 
 
